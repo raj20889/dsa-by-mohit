@@ -1,0 +1,23 @@
+# C++ compiled files
+*.out
+*.o
+*.obj
+*.exe
+
+# Build directories
+build/
+cmake-build-*/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Code editor files
+.vscode/
+*.log
+*.swp
+*.swo
+
+# Mac/Linux swap files
+*.bak
+*~
